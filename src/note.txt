@@ -1,0 +1,7 @@
+- Workflow -
+
+App.js > index.js > index.html
+
+Penjelasan:
+- Component App di file App.js akan dirender ke dalam element div dengan id root di file index.html
+- Perintah render component ada di file index.js
