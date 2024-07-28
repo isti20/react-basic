@@ -1,11 +1,11 @@
-import CComponent from './components/ClassComponent';
+import FComponent from './components/FunctionalComponent';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <CComponent />
+        <FComponent />
       </header>
     </div>
   );
