@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class Home1 extends Component {
+class Contoh1 extends Component {
   // cara 1 : membuat initial state
   // constructor() {
   //   super();
@@ -36,4 +36,4 @@ class Home1 extends Component {
   }
 }
 
-export default Home1;
+export default Contoh1;
