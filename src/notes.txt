@@ -1,2 +1,0 @@
-Notes:
-- setiap nilai state ada yang berubah maka component akan dirender
