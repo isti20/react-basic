@@ -1,14 +1,11 @@
-import Header from "./components/Header";
+import CComponent from './components/ClassComponent';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Header />
-        <p>
-          Selamat datang di tutorial Reactjs!
-        </p>
+        <CComponent />
       </header>
     </div>
   );
