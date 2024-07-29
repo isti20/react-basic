@@ -1,11 +1,11 @@
-import EventClass1 from './components/EventClass1';
+import EventClass2 from './components/EventClass2';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <EventClass1 />
+        <EventClass2 />
       </header>
     </div>
   );
