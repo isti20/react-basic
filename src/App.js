@@ -1,11 +1,11 @@
-import Conditional1 from './components/Conditional1';
+import Conditional2 from './components/Conditional2';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Conditional1 />
+        <Conditional2 />
       </header>
     </div>
   );
