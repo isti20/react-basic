@@ -1,11 +1,11 @@
-import CssStyleSheet from './cssstylesheet/CssStyleSheet';
+import CssModule from './cssmodule/CssModule';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <CssStyleSheet />
+        <CssModule />
       </header>
     </div>
   );
