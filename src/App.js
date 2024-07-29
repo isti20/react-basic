@@ -1,11 +1,11 @@
-import EventFunctional2 from './components/EventFunctional2';
+import EventFunctional3 from './components/EventFunctional3';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <EventFunctional2 />
+        <EventFunctional3 />
       </header>
     </div>
   );
