@@ -1,0 +1,5 @@
+Notes:
+
+- Component didMount hanya dijalankan 1x saat render pertama
+- Component didUpdate dijalankan setiap ada state yang nilainya berubah
+- Component didUnmount dijalankan ketika akan di remove dari dom

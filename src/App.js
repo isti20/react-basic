@@ -1,11 +1,11 @@
-import ComponentLifeCycle1 from './components/ComponentLifeCycle1';
+import ComponentLifeCycle2 from './components/ComponentLifeCycle2';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ComponentLifeCycle1 />
+        <ComponentLifeCycle2 />
       </header>
     </div>
   );
