@@ -1,11 +1,11 @@
-import Contoh3 from './components/Contoh3';
+import Dashboard from './components/Dashboard';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Contoh3 />
+        <Dashboard />
       </header>
     </div>
   );
