@@ -1,5 +1,3 @@
-Notes:
+Notes
 
-- Component didMount hanya dijalankan 1x saat render pertama
-- Component didUpdate dijalankan setiap ada state yang nilainya berubah
-- Component didUnmount dijalankan ketika akan di remove dari dom
+- Jika propsnya tidak berubah maka component tidak akan dirender ulang adalah fungsi memo

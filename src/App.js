@@ -1,11 +1,11 @@
-import ComponentLifeCycle2 from './components/ComponentLifeCycle2';
+import Memo from './components/Memo';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ComponentLifeCycle2 />
+        <Memo />
       </header>
     </div>
   );
