@@ -1,11 +1,11 @@
-import RefComponent2 from './components/RefComponent2';
+import RefComponent3 from './components/RefComponent3';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <RefComponent2 />
+        <RefComponent3 />
       </header>
     </div>
   );
