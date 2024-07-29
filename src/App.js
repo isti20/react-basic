@@ -1,11 +1,11 @@
-import InlineStyle from './inlinestyle/InlineStyle';
+import CssStyleSheet from './cssstylesheet/CssStyleSheet';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <InlineStyle />
+        <CssStyleSheet />
       </header>
     </div>
   );
