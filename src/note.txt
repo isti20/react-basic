@@ -1,3 +1,0 @@
-Notes:
-- key diletakan di bagian element terluar
-- key disarankan tidak pakai index jika datanya berupa object
