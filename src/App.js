@@ -1,11 +1,11 @@
-import CssModule from './cssmodule/CssModule';
+import EventClass1 from './components/EventClass1';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <CssModule />
+        <EventClass1 />
       </header>
     </div>
   );
