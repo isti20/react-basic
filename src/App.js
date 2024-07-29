@@ -1,11 +1,11 @@
-import Conditional5 from './components/Conditional5';
+import InlineStyle from './inlinestyle/InlineStyle';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Conditional5 />
+        <InlineStyle />
       </header>
     </div>
   );
