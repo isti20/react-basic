@@ -1,2 +1,3 @@
 Notes:
-- setiap nilai state ada yang berubah maka component akan dirender
+- key diletakan di bagian element terluar
+- key disarankan tidak pakai index jika datanya berupa object

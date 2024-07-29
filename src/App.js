@@ -1,11 +1,11 @@
-import Dashboard from './components/Dashboard';
+import List from './components/List';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Dashboard />
+        <List />
       </header>
     </div>
   );
